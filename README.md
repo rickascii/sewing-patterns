@@ -1,2 +1,2 @@
-# sewing-patterns
-A mild abuse of github as cloud storage for pdf sewing patterns.
+#sewing-patterns
+Just a little repository of sewing patterns while I abuse github as a form of cloud storage.
