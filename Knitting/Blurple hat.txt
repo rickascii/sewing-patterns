@@ -1,0 +1,25 @@
+Cast on 144 stitches
+
+For brim:
+	*K1 P1*
+Repeat for an inch or two
+
+For body:
+	Odd rows: *K1 P1*
+	Even rows: K 
+Repeat until the whole cylinder measures about 8"
+
+For crown:
+
+The default thing is:
+	Odd rows: k[n], k2t
+	Even rows: k
+	Where [n] starts at 10 and decreaes at each pair of rows
+
+I want the body to be broken knit, so I think the strat is something like
+	Odd rows: *k1 p1* repeat [n] times, k2t, mark the decrease
+	Even rows: k[n], k2t, making sure to decrease the same place as the previous row.
+	
+	Where [n] starts at 20 and decreases by 2 at each pair
+
+But I haven't tested this yet so I'm not going to commit to it.
