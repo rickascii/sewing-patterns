@@ -22,4 +22,15 @@ I want the body to be broken knit, so I think the strat is something like
 	
 	Where [n] starts at 20 and decreases by 2 at each pair
 
-But I haven't tested this yet so I'm not going to commit to it.
+But I haven't tested this yet so I'm not going to commit to it
+
+Update: I've done some mathematical analysis:
+
+
+
+
+For decreases:
+	Odd rows: (k1 p1)×[2n], k1, k3t
+	Even rows: k all the way
+	
+	Decrease n by 1 each time.
